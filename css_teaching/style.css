@@ -1,0 +1,30 @@
+/* css code for tag*/
+body
+{
+    background-color: #f5d000;
+    font-family: "Raleway", sans-serif;
+    
+    font-weight: 500;
+    
+	
+    
+    
+}
+#div_0
+{
+    color: #0d0d0d;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgb(255, 0, 0);
+}
+#div_1
+{
+    color: #0d0d0d;
+    font-size: 20px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgb(255, 0, 0);
+
+}   
